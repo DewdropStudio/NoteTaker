@@ -1,14 +1,22 @@
 {
-  "name": "note-taker",
+  "name": "notetaker",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DewdropStudio/NoteTaker.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DewdropStudio/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/DewdropStudio/NoteTaker#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.1"
   }
 }
